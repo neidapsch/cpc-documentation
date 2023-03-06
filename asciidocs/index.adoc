@@ -1,0 +1,24 @@
+= CPC - Charging Point Controller
+Ablinger Raphael, Neudorfer Niklas
+1.0.0, 2022-06-03
+ifndef::imagesdir[:imagesdir: images]
+//:toc-placement!:
+:sourcedir: ../Bots
+:icons: font
+:sectnums:
+:toc: left
+
+//Need this blank line after ifdef, don't know why...
+ifdef::backend-html5[]
+
+// print the toc here (not at the default position)
+//toc::[]
+
+== Präsentation
+
+link:slides/presentation.html[Hier clicken]
+
+== Systemaufbau
+
+image::arch.png[]
+

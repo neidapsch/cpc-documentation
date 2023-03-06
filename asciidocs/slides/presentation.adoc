@@ -1,0 +1,83 @@
+:customcss: ../style.css
+:author: Ablinger & Neudorfer
+:revnumber: 1.0
+:revdate: {docdate}
+:encoding: utf-8
+:lang: de
+:imagesdir: ../images
+:doctype: article
+:icons: font
+
+//:numbered:
+
+[%notitle]
+== Charging Point Controller
+
+image:overview-22-08.png[]
+
+=== CPC
+
+[%step]
+* lorem ipsum
+
+* lorem ipsum
+
+* lorem ipsum:
+** ipsum lorem
+** ipsum lorem
+** ipsum lorem
+** ipsum lorem
+
+=== What is CPC?
+
+[.text-smaller]
+[%step]
+* ipsum lorem
+* ipsum lorem
+* ipsum lorem
+
+
+=== Why CPC?
+
+[%step]
+* ipsum lorem
+* ipsum lorem
+
+[%notitle]
+== No Title
+
+image:config-22-08.png[]
+
+
+== Implementation
+
+image:chipsBug-25-08-2022.png[]
+
+
+== Chargingbox
+
+image:overview-22-08.png[]
+
+
+== Live - Demo
+
+* http://vm105.htl-leonding.ac.at/[Leonie 2D, "window=_blank"]
+* http://vm105.htl-leonding.ac.at/dashboard[Leonie 2D Dashboard, "window=_blank"]
+
+
+== Next Steps
+
+* ipsum lorem
+
+image:old-gui.png[]
+
+
+== Vielen Dank für Ihre Aufmerksamkeit!
+
+
+[.notes]
+--
+sources:
+https://www.pexels.com/video/footage-of-a-man-gets-an-idea-3761460/
+https://undraw.co/
+--
