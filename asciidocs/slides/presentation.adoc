@@ -7,54 +7,60 @@
 :imagesdir: ../images
 :doctype: article
 :icons: font
+:title-slide-transition: fade
 
 //:numbered:
 
 [%notitle]
 == Charging Point Controller
 
-image:colorful_chargin_boxes.png[background, size=cover]
+image::colorful_chargin_boxes.png[background, size=cover]
 
-
+[transition='concave']
 == Ausgangslage
 
 === ENOMICS
 
 * entwickelt Ladestationen und Ladekonzepte
 
+== Aktuelles UI
 
-image:old-gui.png[]
+image::old-gui.png[]
 
 
 === What is CPC?
 
-image:Ladeboxen_Enomics_Personalisiert.png[background, size=cover, opacity=0.5]
+image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover, opacity=0.5]
 
 [.text-smaller]
 [%step]
-* Benutzerfreundliche Software welche von jedem bedient werden kann
-* Automatische Steuerung des Ladestroms
-*
+* Konfiguration von Ladestationen
+* Speicherung aller Ladevorgänge
+* Managen, wer Zugriff auf die Ladestationen hat
 
 
+[transition='zoom']
 === Warum CPC?
 
 [%step]
 * An ENOMICS-Ladeboxen angepasst
-* ipsum lorem
+* Benutzerfreundliche Software welche von jedem bedient werden kann
+* Automatische Steuerung des Ladestroms
+* Übersichtlicheres UI
 
 === Hardware
 
 
-image:Enomics_Ladebox_Ansicht_6.png[]
+image::Enomics_Ladebox_Ansicht_6.png[]
 
 
 
-== Implementation
+== Implementierung
 
-image:arch.png[]
+image::arch.png[]
 
 
+[transition='convex']
 == Live - Demo
 
 * http://vm105.htl-leonding.ac.at/[Charging Point Controller, "window=_blank"]
@@ -64,14 +70,13 @@ image:arch.png[]
 NOTE: Planung für erstes Einsatzgebiet
 
 
-
-
 == Vielen Dank für Ihre Aufmerksamkeit!
 
 
 [.notes]
 --
 sources:
-https://www.pexels.com/video/footage-of-a-man-gets-an-idea-3761460/
-https://undraw.co/
+https://www.pexels.com/video/a-road-cutting-through-a-forest-4249207/
+
+https://www.pexels.com/video/an-aerial-view-of-coniferous-trees-1437396/
 --
