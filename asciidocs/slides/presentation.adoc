@@ -4,7 +4,7 @@
 :revdate: {docdate}
 :encoding: utf-8
 :lang: de
-:imagesdir: ../images/slides
+:imagesdir: ../images/slides/
 :doctype: article
 :icons: font
 

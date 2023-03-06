@@ -1,7 +1,7 @@
 = CPC - Charging Point Controller
 Ablinger Raphael, Neudorfer Niklas
 1.0.0, 2022-06-03
-ifndef::imagesdir[:imagesdir: images/slides]
+ifndef::imagesdir[:imagesdir: images/slides/]
 //:toc-placement!:
 :sourcedir: ../Bots
 :icons: font
