@@ -2,3 +2,8 @@
     border: 0;
     box-shadow: none;
 }
+
+.reveal h2{
+    background: gainsboro;
+    border-radius: 30px;
+}
