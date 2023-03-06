@@ -4,7 +4,7 @@
 :revdate: {docdate}
 :encoding: utf-8
 :lang: de
-:imagesdir: ../images/slides/
+:imagesdir: ../images
 :doctype: article
 :icons: font
 
@@ -23,50 +23,36 @@ image:colorful_chargin_boxes.png[background, size=cover]
 * entwickelt Ladestationen und Ladekonzepte
 
 
-image:../old-gui.png[]
+image:old-gui.png[]
 
-=== CPC
-
-[%step]
-* lorem ipsum
-
-* lorem ipsum
-
-* lorem ipsum:
-** ipsum lorem
-** ipsum lorem
-** ipsum lorem
-** ipsum lorem
 
 === What is CPC?
 
+image:Ladeboxen_Enomics_Personalisiert.png[background, size=cover, opacity=0.5]
+
 [.text-smaller]
 [%step]
-* ipsum lorem
-* ipsum lorem
-* ipsum lorem
+* Benutzerfreundliche Software welche von jedem bedient werden kann
+* Automatische Steuerung des Ladestroms
+*
 
 
-=== Why CPC?
+=== Warum CPC?
 
 [%step]
-* ipsum lorem
+* An ENOMICS-Ladeboxen angepasst
 * ipsum lorem
 
-[%notitle]
-== No Title
+=== Hardware
 
-image:Ladeboxen_Enomics_Personalisiert.png[]
+
+image:Enomics_Ladebox_Ansicht_6.png[]
+
 
 
 == Implementation
 
 image:arch.png[]
-
-
-== Chargingbox
-
-image:Enomics_Ladebox_Ansicht_6.png[]
 
 
 == Live - Demo
