@@ -29,10 +29,10 @@ image::colorful_chargin_boxes.png[background, size=cover]
 
 image::old-gui.png[]
 
-
+[background-opacity="0.3"]
 === Was ist CPC?
 
-image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover, opacity=0.5]
+image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
 
 [.text-smaller]
 [%step]
