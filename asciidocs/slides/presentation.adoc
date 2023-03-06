@@ -4,7 +4,7 @@
 :revdate: {docdate}
 :encoding: utf-8
 :lang: de
-:imagesdir: ../images
+:imagesdir: ../images/slides
 :doctype: article
 :icons: font
 
@@ -13,7 +13,17 @@
 [%notitle]
 == Charging Point Controller
 
-image:overview-22-08.png[]
+image:colorful_chargin_boxes.png[background, size=cover]
+
+
+== Ausgangslage
+
+=== ENOMICS
+
+* entwickelt Ladestationen und Ladekonzepte
+
+
+image:../old-gui.png[]
 
 === CPC
 
@@ -46,30 +56,28 @@ image:overview-22-08.png[]
 [%notitle]
 == No Title
 
-image:config-22-08.png[]
+image:Ladeboxen_Enomics_Personalisiert.png[]
 
 
 == Implementation
 
-image:chipsBug-25-08-2022.png[]
+image:arch.png[]
 
 
 == Chargingbox
 
-image:overview-22-08.png[]
+image:Enomics_Ladebox_Ansicht_6.png[]
 
 
 == Live - Demo
 
-* http://vm105.htl-leonding.ac.at/[Leonie 2D, "window=_blank"]
-* http://vm105.htl-leonding.ac.at/dashboard[Leonie 2D Dashboard, "window=_blank"]
-
+* http://vm105.htl-leonding.ac.at/[Charging Point Controller, "window=_blank"]
 
 == Next Steps
 
-* ipsum lorem
+NOTE: Planung für erstes Einsatzgebiet
 
-image:old-gui.png[]
+
 
 
 == Vielen Dank für Ihre Aufmerksamkeit!
