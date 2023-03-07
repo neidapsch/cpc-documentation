@@ -11,20 +11,18 @@
 
 //:numbered:
 
+[.heading]
 == Charging Point Controller
-
 
 image::colorful_chargin_boxes.png[background, size=cover]
 
-[transition='concave']
+[.lightbg, background-opacity="0.7",background-video="darker_forest.mp4, transition='concave']
 == Ausgangslage
 
+* ENOMICS entwickelt Ladestationen und Ladekonzepte
+* Konfigurations-Software von Drittanbietern
 
-[.lightbg, background-opacity="0.5",background-video="darker_forest.mp4",options="loop,muted"]
-=== ENOMICS
-
-* entwickelt Ladestationen und Ladekonzepte
-
+[.heading]
 == Aktuelles UI
 
 image::old-gui.png[]
@@ -50,23 +48,23 @@ image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
 * Automatische Steuerung des Ladestroms
 * Übersichtlicheres UI
 
+[.heading]
 === Hardware
-
 
 image::Enomics_Ladebox_Ansicht_6.png[background, size=cover]
 
-
-
+[.heading]
 == Implementierung
 
 image::arch.png[]
 
 
-[transition='convex']
+[.heading, transition='convex']
 == Live - Demo
 
 * http://vm105.htl-leonding.ac.at/[Charging Point Controller, "window=_blank"]
 
+[.heading]
 == Next Steps
 
 NOTE: Planung für erstes Einsatzgebiet
@@ -75,7 +73,7 @@ NOTE:  OCPP - standardisierte Bezahlung
 
 NOTE: Reservierung von Ladestationen
 
-[background-video="forest_top_view.mp4",options="loop,muted"]
+[.heading, background-video="forest_top_view.mp4"]
 == Vielen Dank für Ihre Aufmerksamkeit!
 
 
