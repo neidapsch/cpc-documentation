@@ -70,7 +70,7 @@ image::overview_ui.png[background,size=cover]
 [.lightbg,background-opacity="0.8"]
 == Next Steps
 
-image::undraw_electricity_k2ft.png[background, size=cover]
+image::nature_car.jpg[background, size=cover]
 
 * Planung für erstes Einsatzgebiet
 
