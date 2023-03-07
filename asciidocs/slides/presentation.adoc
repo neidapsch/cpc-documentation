@@ -59,7 +59,7 @@ image::Enomics_Ladebox_Ansicht_6.png[background,size=cover]
 
 image::arch.png[]
 
-[.heading,background-opacity="0.8",transition='convex']
+[.heading,background-opacity="0.4",transition='convex']
 == Live - Demo
 
 image::overview_ui.png[background,size=cover]
