@@ -16,16 +16,36 @@
 
 image::colorful_chargin_boxes.png[background,size=cover]
 
+
+
+
 [.lightbg,background-video="darker_forest.mp4, background-opacity="0.8",transition='concave']
 == Ausgangslage
 
 * ENOMICS entwickelt Ladestationen und Ladekonzepte
 * Konfigurations-Software von Drittanbietern
 
+[.notes]
+--
+* Österreichisches Unternehmen
+--
+
+
+
+
 [.headingBorder]
 === Aktuelles UI
 
 image::old-gui.png[]
+
+[.notes]
+--
+* Verwendet um Ladestationen zu Konfigurieren
+* Nicht für Betreiber & Betreiberinnen von Ladestationen geeignet
+--
+
+
+
 
 [.lightbg,background-opacity="0.8"]
 === Ziel
@@ -38,6 +58,16 @@ image::Ladeboxen_Enomics_Personalisiert.png[background,size=cover]
 * Speicherung aller Ladevorgänge
 * Managen, wer Zugriff auf die Ladestationen hat
 
+[.notes]
+--
+* Nachvollziehbarkeit durch Journal
+* aktuelle Daten mithilfe des Dashboards analysieren
+* Betreiber von Ladestationen die Konfigurieren usw. zu ermöglichen
+--
+
+
+
+
 [.lightbg,background-opacity="0.8",transition='zoom']
 === Warum CPC?
 
@@ -47,18 +77,34 @@ image::pexels-jack-s-9469484.jpg[background,size=cover]
 * An ENOMICS-Ladeboxen angepasst
 * Unabhängig von Drittanbietern
 * Benutzerfreundliche Software welche von jedem bedient werden kann
+** Hilfe für die Anwendung
 * Automatische Steuerung des Ladestroms
 * Übersichtlicheres UI
+
+
+
 
 [.headingBorder]
 === Hardware
 
 image::Enomics_Ladebox_Ansicht_6.png[background,size=cover]
 
+
+
+
 [.headingBorder]
 == Implementierung
 
 image::arch.png[]
+
+
+
+[.notes]
+--
+* Backend auf Raspberry / Microcomputer
+* Angular auf PC im Netzwerk
+--
+
 
 [.lightbg,background-opacity="0.4",transition='convex']
 == Live - Demo
@@ -67,16 +113,25 @@ image::overview_ui.png[background,size=cover]
 
 * http://localhost:4200/[Charging Point Controller,"window=_blank"]
 
+
+
+
 [.lightbg,background-opacity="0.8"]
 == Next Steps
 
 image::nature_car.jpg[background, size=cover]
 
 * Planung für erstes Einsatzgebiet
-
 * OCPP - standardisierte Bezahlung
-
 * Reservierung von Ladestationen
+
+[.notes]
+--
+* Begonnen mit Diplomarbeit -> weitere Zusammenarbeit mit ENOMICS
+--
+
+
+
 
 [.headingBorder,background-video="forest_top_view.mp4"]
 == Vielen Dank für Ihre Aufmerksamkeit!
