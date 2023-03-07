@@ -60,14 +60,14 @@ image::Enomics_Ladebox_Ansicht_6.png[background,size=cover]
 
 image::arch.png[]
 
-[.headingBorder,background-opacity="0.4",transition='convex']
+[.lightbg,background-opacity="0.4",transition='convex']
 == Live - Demo
 
 image::overview_ui.png[background,size=cover]
 
 * http://localhost:4200/[Charging Point Controller,"window=_blank"]
 
-[.headingBorder,background-opacity="0.8"]
+[.lightbg,background-opacity="0.8"]
 == Next Steps
 
 image::undraw_electricity_k2ft.png[background, size=cover]
