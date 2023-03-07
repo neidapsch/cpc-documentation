@@ -33,7 +33,7 @@ image::colorful_chargin_boxes.png[background,size=cover]
 
 
 
-[.headingBorder]
+[.headingBorder, transition='concave']
 === Aktuelles UI
 
 image::old-gui.png[]
