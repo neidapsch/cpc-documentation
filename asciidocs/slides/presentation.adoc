@@ -11,7 +11,7 @@
 
 //:numbered:
 
-[.heading]
+[.headingBorder]
 == Charging Point Controller
 
 image::colorful_chargin_boxes.png[background,size=cover]
@@ -22,21 +22,22 @@ image::colorful_chargin_boxes.png[background,size=cover]
 * ENOMICS entwickelt Ladestationen und Ladekonzepte
 * Konfigurations-Software von Drittanbietern
 
-[.heading]
-== Aktuelles UI
+[.headingBorder]
+=== Aktuelles UI
 
 image::old-gui.png[]
 
 [.lightbg,background-opacity="0.8"]
-=== Was ist CPC?
+=== Ziel
 
 image::Ladeboxen_Enomics_Personalisiert.png[background,size=cover]
 
 [.text-smaller]
 [%step]
-* Konfiguration von Ladestationen
-* Speicherung aller Ladevorgänge
-* Managen, wer Zugriff auf die Ladestationen hat
+* Charging Point Controller
+** Konfiguration der Ladestationen
+** Speicherung aller Ladevorgänge
+** Managen, wer Zugriff auf die Ladestationen hat
 
 [.lightbg,background-opacity="0.8",transition='zoom']
 === Warum CPC?
@@ -45,6 +46,7 @@ image::pexels-jack-s-9469484.jpg[background,size=cover]
 
 [%step]
 * An ENOMICS-Ladeboxen angepasst
+* Unabhängig von Drittanbietern
 * Benutzerfreundliche Software welche von jedem bedient werden kann
 * Automatische Steuerung des Ladestroms
 * Übersichtlicheres UI
@@ -54,19 +56,19 @@ image::pexels-jack-s-9469484.jpg[background,size=cover]
 
 image::Enomics_Ladebox_Ansicht_6.png[background,size=cover]
 
-[.heading]
+[.headingBorder]
 == Implementierung
 
 image::arch.png[]
 
-[.heading,background-opacity="0.4",transition='convex']
+[.headingBorder,background-opacity="0.4",transition='convex']
 == Live - Demo
 
 image::overview_ui.png[background,size=cover]
 
 * http://localhost:4200/[Charging Point Controller,"window=_blank"]
 
-[.heading,background-opacity="0.8"]
+[.headingBorder,background-opacity="0.8"]
 == Next Steps
 
 image::undraw_electricity_k2ft.svg[background, size=cover]
@@ -77,7 +79,7 @@ image::undraw_electricity_k2ft.svg[background, size=cover]
 
 * Reservierung von Ladestationen
 
-[.heading,background-video="forest_top_view.mp4"]
+[.headingBorder,background-video="forest_top_view.mp4"]
 == Vielen Dank für Ihre Aufmerksamkeit!
 
 [.notes]
