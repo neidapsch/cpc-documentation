@@ -20,7 +20,7 @@ image::colorful_chargin_boxes.png[background, size=cover]
 == Ausgangslage
 
 
-[background-video="darker_forest.mp4",options="loop,muted"]
+[.lightbg, background-opacity="0.5",background-video="darker_forest.mp4",options="loop,muted"]
 === ENOMICS
 
 * entwickelt Ladestationen und Ladekonzepte
@@ -29,7 +29,7 @@ image::colorful_chargin_boxes.png[background, size=cover]
 
 image::old-gui.png[]
 
-
+[.lightbg, background-opacity="0.5"]
 === Was ist CPC?
 
 image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
@@ -41,7 +41,7 @@ image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
 * Managen, wer Zugriff auf die Ladestationen hat
 
 
-[transition='zoom']
+[.lightbg, background-opacity="0.5",transition='zoom']
 === Warum CPC?
 
 [%step]
