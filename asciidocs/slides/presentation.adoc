@@ -16,7 +16,7 @@
 
 image::colorful_chargin_boxes.png[background, size=cover]
 
-[.lightbg, background-opacity="0.7",background-video="darker_forest.mp4, transition='concave']
+[.lightbg,background-video="darker_forest.mp4, background-opacity="0.7", transition='concave']
 == Ausgangslage
 
 * ENOMICS entwickelt Ladestationen und Ladekonzepte
@@ -27,7 +27,7 @@ image::colorful_chargin_boxes.png[background, size=cover]
 
 image::old-gui.png[]
 
-[.lightbg, background-opacity="0.5"]
+[.lightbg, background-opacity="0.7"]
 === Was ist CPC?
 
 image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
@@ -39,7 +39,7 @@ image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
 * Managen, wer Zugriff auf die Ladestationen hat
 
 
-[.lightbg, background-opacity="0.5",transition='zoom']
+[.lightbg, background-opacity="0.7",transition='zoom']
 === Warum CPC?
 
 [%step]
@@ -62,7 +62,7 @@ image::arch.png[]
 [.heading, transition='convex']
 == Live - Demo
 
-* http://vm105.htl-leonding.ac.at/[Charging Point Controller, "window=_blank"]
+* http://localhost:4200/[Charging Point Controller, "window=_blank"]
 
 [.heading]
 == Next Steps
