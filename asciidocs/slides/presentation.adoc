@@ -50,7 +50,7 @@ image::pexels-jack-s-9469484.jpg[background,size=cover]
 * Automatische Steuerung des Ladestroms
 * Übersichtlicheres UI
 
-[.heading]
+[.headingBorder]
 === Hardware
 
 image::Enomics_Ladebox_Ansicht_6.png[background,size=cover]
