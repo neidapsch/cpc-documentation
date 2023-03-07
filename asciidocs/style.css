@@ -4,6 +4,7 @@
 }
 
 .reveal h2{
-    background: gainsboro;
-    border-radius: 30px;
+    background: rgba(220, 220, 220, 0.53);
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px;
 }
