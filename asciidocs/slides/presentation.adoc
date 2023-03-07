@@ -34,10 +34,9 @@ image::Ladeboxen_Enomics_Personalisiert.png[background,size=cover]
 
 [.text-smaller]
 [%step]
-* Charging Point Controller
-** Konfiguration der Ladestationen
-** Speicherung aller Ladevorgänge
-** Managen, wer Zugriff auf die Ladestationen hat
+* Konfiguration der Ladestationen
+* Speicherung aller Ladevorgänge
+* Managen, wer Zugriff auf die Ladestationen hat
 
 [.lightbg,background-opacity="0.8",transition='zoom']
 === Warum CPC?
