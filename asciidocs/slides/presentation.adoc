@@ -14,9 +14,9 @@
 [.heading]
 == Charging Point Controller
 
-image::colorful_chargin_boxes.png[background, size=cover]
+image::colorful_chargin_boxes.png[background,size=cover]
 
-[.lightbg,background-video="darker_forest.mp4, background-opacity="0.7", transition='concave']
+[.lightbg,background-video="darker_forest.mp4, background-opacity="0.8",transition='concave']
 == Ausgangslage
 
 * ENOMICS entwickelt Ladestationen und Ladekonzepte
@@ -27,10 +27,10 @@ image::colorful_chargin_boxes.png[background, size=cover]
 
 image::old-gui.png[]
 
-[.lightbg, background-opacity="0.7"]
+[.lightbg,background-opacity="0.8"]
 === Was ist CPC?
 
-image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
+image::Ladeboxen_Enomics_Personalisiert.png[background,size=cover]
 
 [.text-smaller]
 [%step]
@@ -38,9 +38,10 @@ image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
 * Speicherung aller Ladevorgänge
 * Managen, wer Zugriff auf die Ladestationen hat
 
-
-[.lightbg, background-opacity="0.7",transition='zoom']
+[.lightbg,background-opacity="0.8",transition='zoom']
 === Warum CPC?
+
+image::pexels-jack-s-9469484.jpg[background,size=cover]
 
 [%step]
 * An ENOMICS-Ladeboxen angepasst
@@ -51,31 +52,33 @@ image::Ladeboxen_Enomics_Personalisiert.png[background, size=cover]
 [.heading]
 === Hardware
 
-image::Enomics_Ladebox_Ansicht_6.png[background, size=cover]
+image::Enomics_Ladebox_Ansicht_6.png[background,size=cover]
 
 [.heading]
 == Implementierung
 
 image::arch.png[]
 
-
-[.heading, transition='convex']
+[.heading,background-opacity="0.8",transition='convex']
 == Live - Demo
 
-* http://localhost:4200/[Charging Point Controller, "window=_blank"]
+image::overview_ui.png[background,size=cover]
 
-[.heading]
+* http://localhost:4200/[Charging Point Controller,"window=_blank"]
+
+[.heading,background-opacity="0.8"]
 == Next Steps
 
-NOTE: Planung für erstes Einsatzgebiet
+image::undraw_electricity_k2ft.svg[background, size=cover]
 
-NOTE:  OCPP - standardisierte Bezahlung
+* Planung für erstes Einsatzgebiet
 
-NOTE: Reservierung von Ladestationen
+* OCPP - standardisierte Bezahlung
 
-[.heading, background-video="forest_top_view.mp4"]
+* Reservierung von Ladestationen
+
+[.heading,background-video="forest_top_view.mp4"]
 == Vielen Dank für Ihre Aufmerksamkeit!
-
 
 [.notes]
 --
